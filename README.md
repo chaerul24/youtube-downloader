@@ -32,5 +32,6 @@ Supports MP4 (with audio), MP3 conversion, real-time progress tracking, and queu
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/chaerul24/youtube-downloader.git
+cd youtube-downloader
+node app.js
